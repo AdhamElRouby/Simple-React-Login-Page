@@ -2,6 +2,12 @@
 
 A login page using React and Material UI with basic form validation.
 
+<div align="center">
+
+<img src="./public/demo.gif" alt="App Demo">
+
+</div>
+
 ## Run Locally
 
 Clone the project
